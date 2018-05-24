@@ -1,0 +1,12 @@
+{
+  "name": "webpack-depsjson-plugin",
+  "version": "0.0.1",
+  "description": "webpack 生成项目依赖树插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
